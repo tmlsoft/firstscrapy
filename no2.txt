@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 dsahjkdhsajkd a
 jdkasjdka dha 
 
@@ -7,3 +8,14 @@ dkasyd8wjkhdsah
 再次测试
 
 dsdasdas
+=======
+dsahjkdhsajkd a
+jdkasjdka dha 
+
+djksahd asjh 
+dkasyd8wjkhdsah
+
+再次测试
+
+dsdasdas
+>>>>>>> origin/master
